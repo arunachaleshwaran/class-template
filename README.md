@@ -7,3 +7,4 @@ cd $projectName;
 git init
 git commit -a -m '🎉 Initial commit';
 ```
+Testing
